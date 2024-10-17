@@ -36,7 +36,7 @@ const Portfolio = () => {
               Transform your vision into reality - seamlessly build, scale, and optimize your digital experience from front-end to back-end brilliance with OliviaTetteh.
             </p>
             <p className="hero-tagline">
-              I am a versatile FULLSTACK ENGINEER with a passion for crafting dynamic, user-centric web applications. With expertise in both front-end and back-end development, I bring your ideas to life, ensuring a cohesive and polished digital experience.
+              I am a versatile FULLSTACK ENGINEER with a passion for crafting dynamic, user-friendly web applications. With expertise in both front-end and back-end development, I bring your ideas to life, ensuring a cohesive and polished digital experience.
             </p>
             <div>
               <a href="#get-started" className="hero-button">Get Started</a>
@@ -73,7 +73,7 @@ const Portfolio = () => {
             <div className="row">
               <div className="col-sm-6 mb-3">
                 <div className="card">
- <img src="./assets/image/Olive_Blog.png" className="card-img-top" alt="Olive Blog App" />
+ <img src="./assets/image/Olive Blog.png" className="card-img-top" alt="Olive Blog App" />
                   <div className="card-body">
                     <h5 className="card-title">Olive Blog App</h5>
                     <p className="card-text">A blogging platform where users can create accounts, write blog posts...</p>
@@ -126,7 +126,7 @@ const Portfolio = () => {
 
         {/* Footer */}
         <footer>
-          <div className="container mx-auto py-6 px-4" style={{ backgroundImage: "url('background.jpg')" }}>
+          <div className="container mx-auto py-6 px-4" style={{ backgroundImage: "url('Home.png')" }}>
             <div className="flex justify-center space-x-2 mb-4">
               <a href="https://github.com/OliviaTetteh" className="text-white hover:text-gray-400 transition duration-200">
                 <FaGithub size="2em" />
